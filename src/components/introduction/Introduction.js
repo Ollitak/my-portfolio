@@ -16,7 +16,7 @@ const Introduction = () => {
                 <div className="i-title-item">Back-end development</div>
                 <div className="i-title-item">Former investment banker</div>
                 <div className="i-title-item">Aspiring software developer</div>
-                <div className="i-title-item">Continusous learning</div>
+                <div className="i-title-item">Continuous learning</div>
               </div>
             </div>
             <div className="i-description">
