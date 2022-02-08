@@ -1,0 +1,33 @@
+.pl {
+  padding: 120px 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.pl-texts {
+  width: 50%;
+}
+
+.pl-title {
+  font-size: 70px;
+  margin: 0;
+}
+
+.pl-description-first {
+  margin: 35px 0px 15px;
+  font-size: 20px;
+}
+
+.pl-description-second {
+  margin: 0px 0px 50px;
+  font-size: 20px;
+}
+
+.pl-list {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
