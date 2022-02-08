@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.cc95e0cd.css",
+    "main.js": "/my-portfolio/static/js/main.75ff35ae.js",
+    "static/media/olli.jpg": "/my-portfolio/static/media/olli.8dbab3ead530044647ca.jpg",
+    "static/media/github-logo.png": "/my-portfolio/static/media/github-logo.1c95b85d86a7c25b6f3c.png",
+    "static/media/gmail-logo.png": "/my-portfolio/static/media/gmail-logo.491b662595dc95ef157a.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.cc95e0cd.css.map": "/my-portfolio/static/css/main.cc95e0cd.css.map",
+    "main.75ff35ae.js.map": "/my-portfolio/static/js/main.75ff35ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc95e0cd.css",
+    "static/js/main.75ff35ae.js"
+  ]
+}
