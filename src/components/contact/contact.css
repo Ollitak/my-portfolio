@@ -1,0 +1,60 @@
+.c {
+  display: flex;
+  height: 80vh;
+  background-color: #0000000e;
+  flex-direction: row;
+}
+
+.c-left {
+  flex: 3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.c-right {
+  flex: 1;
+  flex-direction: column;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 100px;
+}
+
+.c-left-background {
+  clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 51%, 0% 0%);
+  background-color: #ff7b00;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.c-texts {
+  width: 70%;
+  position: relative;
+  color: white
+}
+
+.c-title {
+  font-size: 70px;
+  margin: 0;
+}
+
+.c-description {
+  font-size: 30px;
+}
+
+.c-github {
+  height: 100px;
+}
+
+.c-gmail {
+  height: 100px;
+}
+
+.c-linkedin {
+  height: 100px;
+}
