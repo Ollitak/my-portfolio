@@ -19,10 +19,10 @@ const Contact = () => {
         <a href={"https://github.com/Ollitak"} target="_blank" rel="noreferrer">
           <img src={GithubLogo} alt="" className="c-github"></img>
         </a>
-        <a href={"https://github.com/Ollitak"} target="_blank" rel="noreferrer">
+        <a href={"mailto: olli.takaanttila@gmail.com"}>
           <img src={GmailLogo} alt="" className="c-gmail"></img>
         </a>
-        <a href={"https://github.com/Ollitak"} target="_blank" rel="noreferrer">
+        <a href={"https://www.linkedin.com/in/olli-taka-anttila/"} target="_blank" rel="noreferrer">
           <img src={LinkedinLogo} alt="" className="c-linkedin"></img>
         </a>
       </div>
