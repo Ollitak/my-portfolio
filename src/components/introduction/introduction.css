@@ -98,4 +98,27 @@ body {
   .i {
     flex-direction: column;
   }
+
+  .i-left-wrapper {
+    padding: 10px;
+    height: 80%;
+    text-align: center;
+  }
+  
+  .i-beginning {
+    font-size: 30px;
+  }
+
+  .i-name {
+    font-size: 50px;
+  }
+
+  .i-title-item {
+    font-size: 20px;
+    margin: auto;
+  }
+
+  .i-description {
+    font-size: 20px;
+  }
 }

@@ -20,7 +20,7 @@ const Introduction = () => {
               </div>
             </div>
             <div className="i-description">
-              I focus on fullstack development currently specializing in JavaScript, React.js and Node.js.
+              I focus on fullstack development currently specializing in JavaScript, React.js and Node.js
             </div>
           </div>
         </div>

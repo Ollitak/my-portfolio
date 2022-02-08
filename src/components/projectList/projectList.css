@@ -31,3 +31,17 @@
   flex-wrap: wrap;
   justify-content: space-between;
 }
+
+@media screen and (max-width: 480px) {
+  .pl {
+    padding: 90px 30px;
+  }
+  
+  .pl-title {
+    font-size: 45px;
+  }
+
+  .pl-texts {
+    width: 90%;
+  }
+}

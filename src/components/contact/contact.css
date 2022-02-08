@@ -58,3 +58,39 @@
 .c-linkedin {
   height: 100px;
 }
+
+@media screen and (max-width: 480px) {
+  .c {
+    flex-direction: column;
+    background-color: white;
+  }
+
+  .c-title {
+    font-size: 50px;
+    margin: 0;
+  }
+  
+  .c-description {
+    font-size: 20px;
+  }
+
+  .c-github {
+    height: 60px;
+  }
+  
+  .c-gmail {
+    height: 60px;
+  }
+  
+  .c-linkedin {
+    height: 60px;
+  }
+
+  .c-left {
+    flex: 1;
+  }
+
+  .c-right {
+    padding: 30px;
+  }
+}
